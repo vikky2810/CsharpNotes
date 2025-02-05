@@ -113,13 +113,3 @@ Total Salary of Alice Smith: $100,000.00
 - Add **Polymorphism** by overriding methods.
 - Use **Interfaces** to introduce multiple inheritance.
 
-## 📌 License
-This project is open-source under the **MIT License**.
-
----
-
-### 🔗 Connect with Me
-- GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-
-🚀 **Happy Coding!**
